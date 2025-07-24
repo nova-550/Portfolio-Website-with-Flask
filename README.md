@@ -20,6 +20,7 @@ The project demonstrates:
 
 ## 📁 Project Structure
 
+```
 flask_portfolio/
 │
 ├── app.py # Main Flask application
@@ -33,8 +34,7 @@ flask_portfolio/
 │ └── contact.html # Contact Form Page
 │
 └── README.md # Project Documentation
-
-
+```
 ---
 
 ## 🌐 Routes and Pages
