@@ -51,7 +51,7 @@ flask_portfolio/
 
 ### 1. Clone the repository or download ZIP
 ```
-- git clone https://github.com/your-username/Portfolio-Website-with-Flask
+- git clone https://github.com/nova-550/Portfolio-Website-with-Flask
 .git
 -cd Portfolio-Website-with-Flask
 ```
